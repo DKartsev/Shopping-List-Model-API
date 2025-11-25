@@ -121,7 +121,7 @@ REST API на FastAPI, включающий:
 
 ---
 
-# 🛒 **Items (CRUD)**
+#  **Items (CRUD)**
 
 ## **POST /items/**
 
